@@ -1,0 +1,1 @@
+Este repositório reúne o código-fonte, a documentação e os artistas desenvolvidos para o Projeto de MVP da Sprint de Desenvolvimento Full Stack Básico, como parte do curso de Pós-Graduação em Engenharia de Software da PUC-Rio.
